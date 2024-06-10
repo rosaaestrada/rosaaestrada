@@ -8,7 +8,7 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 
 📫 How to reach me
 - Email: rae.estrada03@gmail.com
-- LinkedIn: linkedin.com/in/rosa-a-estrada-m-s-476775211
+- LinkedIn: [linkedin.com/in/rosa-a-estrada-m-s-476775211]
 
 #### ⚡ Fun fact
 - I love Star Wars, sports, and the outdoors
@@ -55,7 +55,7 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 - Feature Selection
 - Data Visualization
   
-** Soft Skills**
+**Soft Skills**
 - Proficient in Spanish
 - Problem-solving
 - Organized
