@@ -66,6 +66,7 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 - Leadership
 - Communicative
 
+Thank you for visiting my profile! Feel free to reach out if you want to connect, collaborate on a project, or know of any job openings!
 <!---
 rosaaestrada/rosaaestrada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
