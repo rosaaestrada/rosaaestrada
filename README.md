@@ -20,17 +20,24 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 **Coursera** | *Google Data Analytics Certificate*
 
 ## Projects
-**Thesis | Predicting What Factors Influence Loan Default in the United States using Advanced Machine Learning Techniques**
-- Implemented Advanced Machine Learning techniques on The LendingClub and The Federal Emergency Management Agency datasets to investigate loan default factors, employing methods such as feature engineering, feature selection, Logistic Regression, Random Forest, and Decision Tree models.  
-- Utilized Python with Pandas, NumPy, Matplotlib, Seaborn, Imbalanced-learn, and Scikit-Learn for data cleaning, Exploratory Data Analysis, predictive modeling, and model evaluation, resulting in valuable insights into loan default prediction and financial decision-making implications.
+**Thesis | Predicting What Factors Influence Loan Default in the U.S.**
+- Implemented Advanced Machine Learning techniques on The LendingClub and The Federal Emergency Management Agency datasets to predict what factors influence loan default.
+- Employed methods such as feature engineering, feature selection, Logistic Regression Random Forest, and Decision Tree models.
+- Enhanced prediction accuracy through rigorous data preprocessing and feature importance analysis, optimizing model performance and uncovering key insights into loan default prediction trends.
+- Utilized Python (Pandas, NumPy, Matplotlib, Seaborn, Imbalanced-learn, and Scikit-Learn) to implement a comprehensive data science pipeline, resulting in actionable insights into loan default prediction and financial decision-making implications.
+- Identified ‘last_pymnt_amnt’ as the top predictor, indicating that higher last payment amounts are associated with a lower likelihood of default, underscoring its role in reducing default risk.
 
-**Mental Health & Age | Analyzing the Relationship Between Mental Health & Age Among U.S. Adults in 2018**
-- Conducted statistical analysis on the BRFSS 2018 dataset to examine the correlation between mental health and age among U.S. adults aged 18-55+, employing techniques such as Pearson Chi-Square, Analysis of Variance (ANOVA), and Confusion Matrix.
-- Explored what ages reported having more “not good” mental health days while controlling for variables including general health, education level, and veteran status, providing insights into age groups most vulnerable to mental health concerns and informing targeted intervention strategies.
+**Mental Health & Age Analysis Among U.S. Adults in 2018**
+- Conducted statistical analysis on the BRFSS 2018 dataset to examine the relationship between mental health and age among U.S. adults aged 18-55+, utilizing techniques such as Pearson Chi-Square, Analysis of Variance (ANOVA), and Confusion Matrix.
+- Employed Python and followed a structured data science pipeline to analyze and identify the patterns in mental health days reported across different age groups.
+- Identified adults aged 55+ reported the highest number of “no good” mental health days, leveraging Pearson Chi-Square results, indicating a significant association between age and mental health outcomes.
+- Uncovered further insights by establishing significant correlations between mental health and variables such as general health, education level, and veteran status, highlighting their impact on mental well-being.
 
-**GDP Growth Rate & USA, Finland, and Denmark | Predicting What Countries Will Experience Higher GDP Growth Rates in 2025**
-- Utilized historical data from the World Happiness Report from 2015 to 2024 and employed Advanced Machine Learning Algorithms: Logistic Regression and Random Forest models to predict which country among the USA, Finland, and Denmark will likely experience higher GDP growth in 2025.
-- Performed model evaluation using R-squared values to assess the accuracy between the model’s predictions and actual GDP growth rates, resulting in Denmark having the highest R-squared values, indicating stronger correlation than the USA and Finland
+**GDP Growth Rate Prediction for USA, Finland, and Denmark**
+- Applied Advanced Machine Learning techniques (Logistic Regression, Random Forest) to analyze historical data from the World Happiness Report from 2015-2024 to predict which country among the USA, Finland, and Denmark will likely experience higher GDP growth in 2025.
+- Implemented detailed feature engineering and data preprocessing methods to enhance model accuracy and ensure its reliability.
+- Evaluated model performance using R-squared values, providing evidence-based insights into the economic trajectories of these countries, highlighting Denmark’s potential for higher GDP growth rates in 2025.
+- Demonstrated proficiency in utilizing happiness metrics and machine learning techniques for precise economic forecasting, supporting data-driven policy formulation and strategic decision-making.
 
 
 ## Skills
