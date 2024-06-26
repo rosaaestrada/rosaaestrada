@@ -10,8 +10,6 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 - Email: rae.estrada03@gmail.com
 - LinkedIn: [[linkedin.com/in/rosa-a-estrada-m-s-476775211]](https://www.linkedin.com/in/rosa-a-estrada-m-s-476775211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgd44CFwETwyVr76omfu5WQ%3D%3D)
 
-**Kaggle Notebooks:** [Kaggle.com/rosaaestrada](https://www.kaggle.com/rosaaestrada)
-
 #### ⚡ Fun fact
 - I love Star Wars, sports, and the outdoors
 
@@ -22,6 +20,9 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 **Coursera** | *Google Data Analytics Certificate*
 
 ## Projects
+
+**Kaggle Notebooks:** [Kaggle.com/rosaaestrada](https://www.kaggle.com/rosaaestrada)
+
 **Thesis: Predicting Factors Influencing Loan Default in the U.S.**
 
 **Mental Health & Age Analysis Among U.S. Adults in 2018**
