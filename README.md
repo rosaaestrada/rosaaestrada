@@ -16,8 +16,7 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 - I love Star Wars, sports, and the outdoors
 
 ## Education
-**National University**
-*Master of Science - Data Science; Specialization in Business Analytics*
+**National University** | *Master of Science - Data Science; Specialization in Business Analytics*
 - I've learned how to use a diverse collection of programming languages, tools and methodologies to conduct comprehensive data analysis, Advanced Machine Learning Algorithms, statistical modeling, and data visualization to obtain actionable insights for real-world challenges.
 
 **Coursera** | *Google Data Analytics Certificate*
