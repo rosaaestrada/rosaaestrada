@@ -1,4 +1,4 @@
-# Hi there, I'm Rosa Estrada, M.S. 👋
+# Hi there, I'm Rosa A. Estrada, M.S. 👋
 
 ### About Me
 I possess a strong foundation in utilizing a diverse collection of programming languages, tools, and methodologies to conduct comprehensive data analysis. 
@@ -9,6 +9,8 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 📫 How to reach me
 - Email: rae.estrada03@gmail.com
 - LinkedIn: [[linkedin.com/in/rosa-a-estrada-m-s-476775211]](https://www.linkedin.com/in/rosa-a-estrada-m-s-476775211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgd44CFwETwyVr76omfu5WQ%3D%3D)
+
+**Kaggle Notebooks:** [Kaggle.com/rosaaestrada](https://www.kaggle.com/rosaaestrada)
 
 #### ⚡ Fun fact
 - I love Star Wars, sports, and the outdoors
