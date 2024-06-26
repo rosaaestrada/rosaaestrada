@@ -23,11 +23,11 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 
 **Kaggle Notebooks:** [Kaggle.com/rosaaestrada](https://www.kaggle.com/rosaaestrada)
 
-*Thesis: Predicting Factors Influencing Loan Default in the U.S.*
+- *Thesis: Predicting Factors Influencing Loan Default in the U.S.*
 
-*Mental Health & Age Analysis Among U.S. Adults in 2018*
+- *Mental Health & Age Analysis Among U.S. Adults in 2018*
 
-*Predicting 2025 GDP Growth: USA, Finland, and Denmark*
+- *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
 
 ## Skills
 **Technical**
