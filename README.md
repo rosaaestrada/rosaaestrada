@@ -1,6 +1,6 @@
 # Hi there, I'm Rosa A. Estrada, M.S. 👋
 
-# About Me
+#@ About Me
 I possess a strong foundation in utilizing a diverse collection of programming languages, tools, and methodologies to conduct comprehensive data analysis. 
 Proficient in Advanced Machine Learning Algorithms, statistical modeling, and data visualization to extract actionable insights for real-world challenges. 
 With a background in Communication and Leadership Development from San Diego State University, I bring a unique blend of analytical expertise and effective communication skills to any team. 
