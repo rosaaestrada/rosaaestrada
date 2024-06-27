@@ -25,25 +25,25 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 
 **Kaggle Notebooks:** [Kaggle.com/rosaaestrada](https://www.kaggle.com/rosaaestrada)
 
-  🔹 *Thesis: Predicting Factors Influencing Loan Default in the U.S.*
+  🔸 *Thesis: Predicting Factors Influencing Loan Default in the U.S.*
 
-  🔹 *Mental Health & Age Analysis Among U.S. Adults in 2018*
+  🔸 *Mental Health & Age Analysis Among U.S. Adults in 2018*
 
-  🔹 *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
+  🔸 *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
 
 ## ✨ Skills
 **Technical**
-🔸 Python, SAS, R, SQL
-🔸 Jupyter Notebook, Tableau, BigQUery, Google Sheets, Microsoft Excel, Bitrix 24 Platform
-🔸 Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
+- Python, SAS, R, SQL
+- Jupyter Notebook, Tableau, BigQUery, Google Sheets, Microsoft Excel, Bitrix 24 Platform
+- Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
 
 **Analytical**
-🔹 Machine Learning Algorithms
-🔹 Data Mining
-🔹 Statistical Modeling
-🔹 Data Analysis
-🔹 Data Management
-🔹 Data Manipulation
+- Machine Learning Algorithms
+- Data Mining
+- Statistical Modeling
+- Data Analysis
+- Data Management
+- Data Manipulation
 - Big Data
 - Exploratory data Analysis
 - Feature Engineering
