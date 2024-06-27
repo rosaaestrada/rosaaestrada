@@ -1,4 +1,5 @@
-# Hi there, I'm Rosa A. Estrada, M.S. 👋
+# Hey, I'm Rosa A. Estrada, M.S. 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)) 
 
 ## About Me
 I possess a strong foundation in utilizing a diverse collection of programming languages, tools, and methodologies to conduct comprehensive data analysis. 
