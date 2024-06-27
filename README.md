@@ -1,7 +1,7 @@
 # Hey, I'm Rosa A. Estrada, M.S. 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-a-estrada-m-s-476775211) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rae.estrada03@gmail.com)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rosaaestrada)
 
 ## About Me
 I possess a strong foundation in utilizing a diverse collection of programming languages, tools, and methodologies to conduct comprehensive data analysis. 
