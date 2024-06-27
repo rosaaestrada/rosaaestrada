@@ -38,28 +38,19 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 - Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
 
 **Analytical**
-- Machine Learning Algorithms
-- Data Mining
-- Statistical Modeling
-- Data Analysis
-- Data Management
-- Data Manipulation
+- Machine Learning Algorithms & Statistical Modeling
+- Data Mining & Data Analysis
+- Data Management & Data Manipulation
+- Exploratory data Analysis & Data Visualization
+- Feature Engineering & Feature Selection
 - Big Data
-- Exploratory data Analysis
-- Feature Engineering
-- Feature Selection
-- Data Visualization
   
 **Soft Skills**
 - Proficient in Spanish
-- Problem-solving
-- Organized
-- Time Management
-- Adaptable
-- Teachable
-- Collaborative
-- Leadership
-- Communicative
+- Problem-solving & Communicative
+- Organization & Time Management
+- Adaptable & Teachable
+- Collaborative & Leadership
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect, collaborate on a project, or know of any job openings! I'm passionate about learning and growing. 🌱
 <!---
