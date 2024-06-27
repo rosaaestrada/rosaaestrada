@@ -6,7 +6,7 @@ Proficient in Advanced Machine Learning Algorithms, statistical modeling, and da
 With a background in Communication and Leadership Development from San Diego State University, I bring a unique blend of analytical expertise and effective communication skills to any team. 
 I am highly motivated, dedicated, and collaborative. I am committed to delivering high-quality work while focusing on the smallest details to drive impactful results.
 
-📫 How to reach me
+✉️ How to reach me
 - Email: rae.estrada03@gmail.com
 - LinkedIn: [[linkedin.com/in/rosa-a-estrada-m-s-476775211]](https://www.linkedin.com/in/rosa-a-estrada-m-s-476775211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgd44CFwETwyVr76omfu5WQ%3D%3D)
 
