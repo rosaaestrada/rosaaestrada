@@ -11,10 +11,6 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 
 🌱 **Currently Working on:** *Microsoft PowerBI Data Analytics Certificate*
 
-📫 **How to reach me**
-- Email: rae.estrada03@gmail.com
-- LinkedIn: [[linkedin.com/in/rosa-a-estrada-m-s-476775211]](https://www.linkedin.com/in/rosa-a-estrada-m-s-476775211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgd44CFwETwyVr76omfu5WQ%3D%3D)
-
 ⚽️ **Fun facts & Hobbies**
 - I love Star Wars, sports, reading, and the outdoors
 
