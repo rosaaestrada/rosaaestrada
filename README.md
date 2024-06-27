@@ -15,11 +15,11 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 
 ## 🎓 Education
 **National University** | *Master of Science - Data Science; Specialization in Business Analytics*
-- I've learned how to use a diverse collection of programming languages, tools and methodologies to conduct comprehensive data analysis, Advanced Machine Learning Algorithms, statistical modeling, and data visualization to obtain actionable insights for real-world challenges.
+  🔸 I've learned how to use a diverse collection of programming languages, tools and methodologies to conduct comprehensive data analysis, Advanced Machine Learning Algorithms, statistical modeling, and data visualization to obtain actionable insights for real-world challenges.
 
 **Coursera** | *Google Data Analytics Certificate*
 
-🌱 **Currently Working on:** Microsoft PowerBI Data Analytics Certificate
+🌱 **Currently Working on:** *Microsoft PowerBI Data Analytics Certificate*
 
 ## 📉 Projects
 
@@ -33,17 +33,17 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 
 ## ✨ Skills
 **Technical**
-- Python, SAS, R, SQL
-- Jupyter Notebook, Tableau, BigQUery, Google Sheets, Microsoft Excel, Bitrix 24 Platform
-- Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
+🔸 Python, SAS, R, SQL
+🔸 Jupyter Notebook, Tableau, BigQUery, Google Sheets, Microsoft Excel, Bitrix 24 Platform
+🔸 Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
 
 **Analytical**
-- Machine Learning Algorithms
-- Data Mining
-- Statistical Modeling
-- Data Analysis
-- Data Management
-- Data Manipulation
+🔹 Machine Learning Algorithms
+🔹 Data Mining
+🔹 Statistical Modeling
+🔹 Data Analysis
+🔹 Data Management
+🔹 Data Manipulation
 - Big Data
 - Exploratory data Analysis
 - Feature Engineering
