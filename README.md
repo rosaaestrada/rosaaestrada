@@ -3,7 +3,7 @@
 [![LinkedIn]([[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=Blue)](linkedin.com/in/rosa-a-estrada-m-s-476775211](https://www.linkedin.com/in/rosa-a-estrada-m-s-476775211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgd44CFwETwyVr76omfu5WQ%3D%3D)))
 
 
-### 🔅 About Me
+###🔅 About Me
 I possess a strong foundation in utilizing a diverse collection of programming languages, tools, and methodologies to conduct comprehensive data analysis. 
 Proficient in Advanced Machine Learning Algorithms, statistical modeling, and data visualization to extract actionable insights for real-world challenges. 
 With a background in Communication and Leadership Development from San Diego State University, I bring a unique blend of analytical expertise and effective communication skills to any team. 
