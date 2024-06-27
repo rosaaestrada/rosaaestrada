@@ -15,7 +15,7 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 
 ## 🎓 Education
 **National University** | *Master of Science - Data Science; Specialization in Business Analytics*
-  🔸 I've learned how to use a diverse collection of programming languages, tools and methodologies to conduct comprehensive data analysis, Advanced Machine Learning Algorithms, statistical modeling, and data visualization to obtain actionable insights for real-world challenges.
+- I've learned how to use a diverse collection of programming languages, tools and methodologies to conduct comprehensive data analysis, Advanced Machine Learning Algorithms, statistical modeling, and data visualization to obtain actionable insights for real-world challenges.
 
 **Coursera** | *Google Data Analytics Certificate*
 
@@ -25,11 +25,11 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 
 **Kaggle Notebooks:** [Kaggle.com/rosaaestrada](https://www.kaggle.com/rosaaestrada)
 
-  🔸 *Thesis: Predicting Factors Influencing Loan Default in the U.S.*
+  🔹 *Thesis: Predicting Factors Influencing Loan Default in the U.S.*
 
-  🔸 *Mental Health & Age Analysis Among U.S. Adults in 2018*
+  🔹 *Mental Health & Age Analysis Among U.S. Adults in 2018*
 
-  🔸 *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
+  🔹 *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
 
 ## ✨ Skills
 **Technical**
