@@ -1,6 +1,6 @@
 # Hi there, I'm Rosa A. Estrada, M.S. 👋
 
-### About Me
+### 🔅 About Me
 I possess a strong foundation in utilizing a diverse collection of programming languages, tools, and methodologies to conduct comprehensive data analysis. 
 Proficient in Advanced Machine Learning Algorithms, statistical modeling, and data visualization to extract actionable insights for real-world challenges. 
 With a background in Communication and Leadership Development from San Diego State University, I bring a unique blend of analytical expertise and effective communication skills to any team. 
@@ -10,8 +10,8 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 - Email: rae.estrada03@gmail.com
 - LinkedIn: [[linkedin.com/in/rosa-a-estrada-m-s-476775211]](https://www.linkedin.com/in/rosa-a-estrada-m-s-476775211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgd44CFwETwyVr76omfu5WQ%3D%3D)
 
-#### ⚡ Fun facts
-- I love Star Wars, sports, and the outdoors
+⚽️ Fun facts & Hobbies
+- I love Star Wars, sports, reading, and the outdoors
 
 ## 🎓 Education
 **National University** | *Master of Science - Data Science; Specialization in Business Analytics*
@@ -25,13 +25,13 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 
 **Kaggle Notebooks:** [Kaggle.com/rosaaestrada](https://www.kaggle.com/rosaaestrada)
 
-- *Thesis: Predicting Factors Influencing Loan Default in the U.S.*
+  🔹 *Thesis: Predicting Factors Influencing Loan Default in the U.S.*
 
-- *Mental Health & Age Analysis Among U.S. Adults in 2018*
+  🔹 *Mental Health & Age Analysis Among U.S. Adults in 2018*
 
-- *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
+  🔹 *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
 
-## Skills
+## ✨ Skills
 **Technical**
 - Python, SAS, R, SQL
 - Jupyter Notebook, Tableau, BigQUery, Google Sheets, Microsoft Excel, Bitrix 24 Platform
