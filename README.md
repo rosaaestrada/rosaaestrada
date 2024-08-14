@@ -1,5 +1,5 @@
 # Hey, I'm Rosa A. Estrada, M.S. 👋
-[![LinkedIn](https://www.linkedin.com/in/rosa-a-estrada-ms/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-a-estrada-ms/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rae.estrada03@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rosaaestrada)
 
