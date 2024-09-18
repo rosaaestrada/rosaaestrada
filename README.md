@@ -9,7 +9,7 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 ### Frameworks
 ### Tools
 
-------------------------------------------------------------------------------------------------------------------------------------
+#
 
 ### 📉 Projects
 
@@ -21,7 +21,7 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 
   🔹 *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
 
---------------------------------------------------------------------------------------------------------------------------------------
+#
 
 ### 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-a-estrada-ms/)
