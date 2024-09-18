@@ -18,7 +18,7 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 
 ### 📉 Projects
 
-**Kaggle Notebooks:** [Kaggle.com/rosaaestrada](https://www.kaggle.com/rosaaestrada)
+**Kaggle Notebooks:**
 
   🔹 *Thesis: Predicting Factors Influencing Loan Default in the U.S.*
 
