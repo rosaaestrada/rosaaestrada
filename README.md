@@ -6,23 +6,13 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 # 
 
 ### 💻 Languages
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="30" height="30"> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="30"> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="30" height="30"> &nbsp;&nbsp;&nbsp; <img src="https://seeklogo.com/images/S/sas-institute-inc-logo-724F521E0C-seeklogo.com.png" alt="SAS" width="50" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="30" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="30" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://seeklogo.com/images/S/sas-institute-inc-logo-724F521E0C-seeklogo.com.png" alt="SAS" width="50" height="40">
 
 ### 🛠️ Frameworks
 <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="Pandas" width="60" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://www.dataquest.io/wp-content/uploads/2024/04/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="40"> &nbsp; <img src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png" alt="Matplotlib" width="70" height="40"> &nbsp;&nbsp;<img src="https://miro.medium.com/v2/resize:fit:819/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" width="60" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://imbalanced-learn.org/stable/_static/img/logo_wide_dark.png" alt="Imbalanced-learn" width="70" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://miro.medium.com/v2/resize:fit:765/1*jeD4MLgE1t_w02Jy8Yvkxw.png" alt="NumPy" width="70" height="40"> 
 
 ### 🧰 Tools
-<img src="https://www.svgrepo.com/show/373718/jupyter.svg" alt="Jupyter Notebook" width="60" height="40"> &nbsp;&nbsp;&nbsp;
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="50" height="40"> &nbsp;&nbsp;&nbsp;
-
-<img src="https://afs.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_logo.png?h=c673cd1c&itok=aomysVvE" alt="Tableau" width="65" height="40"> &nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" width="60" height="40"> &nbsp;&nbsp;&nbsp;
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Office_13-16_Logo.png" alt="Office" width="70" height="40"> &nbsp;&nbsp;&nbsp;
-
-<img src="https://hiviewsolutions.com/wp-content/uploads/2024/08/HiView-Solutions-Google-Workspace-Reseller.-Super-G-Icon.png" alt="Google" width="50" height="40"> &nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/373718/jupyter.svg" alt="Jupyter Notebook" width="60" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="50" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://afs.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_logo.png?h=c673cd1c&itok=aomysVvE" alt="Tableau" width="65" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" width="60" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Office_13-16_Logo.png" alt="Office" width="70" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://hiviewsolutions.com/wp-content/uploads/2024/08/HiView-Solutions-Google-Workspace-Reseller.-Super-G-Icon.png" alt="Google" width="50" height="40"> &nbsp;&nbsp;&nbsp;
 
 #
 
