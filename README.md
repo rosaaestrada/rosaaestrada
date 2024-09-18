@@ -5,7 +5,7 @@ I'm a data science professional with a strong foundation in advanced machine lea
 I'm passionate about working on side projects to push my boundaries. Outside of work, I'm a fan of Star Wars, sports, reading, and explporing the outdoors.
 
 
-## 📉 Projects
+### 📉 Projects
 
 **Kaggle Notebooks:** [Kaggle.com/rosaaestrada](https://www.kaggle.com/rosaaestrada)
 
