@@ -4,8 +4,14 @@ I'm a data science professional with a strong foundation in advanced machine lea
 
 I'm passionate about working on side projects to push my boundaries. Outside of work, I'm a fan of Star Wars, sports, reading, and explporing the outdoors.
 
+------------------------------------------------------------------------------------------------------------------------------------
+### Languages
+### Frameworks
+### Tools
 
-## 📉 Projects
+------------------------------------------------------------------------------------------------------------------------------------
+
+### 📉 Projects
 
 **Kaggle Notebooks:** [Kaggle.com/rosaaestrada](https://www.kaggle.com/rosaaestrada)
 
@@ -14,8 +20,10 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
   🔹 *Mental Health & Age Analysis Among U.S. Adults in 2018*
 
   🔹 *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
-  
-## 🌐 Contact
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-a-estrada-ms/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rae.estrada03@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rosaaestrada)
