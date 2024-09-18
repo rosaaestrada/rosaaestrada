@@ -14,15 +14,15 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 ### 🧰 Tools
 <img src="https://www.svgrepo.com/show/373718/jupyter.svg" alt="Jupyter Notebook" width="60" height="40"> &nbsp;&nbsp;&nbsp;
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="60" height="40"> &nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="50" height="40"> &nbsp;&nbsp;&nbsp;
 
-<img src="https://afs.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_logo.png?h=c673cd1c&itok=aomysVvE" alt="Tableau" width="60" height="40"> &nbsp;&nbsp;&nbsp;
+<img src="https://afs.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_logo.png?h=c673cd1c&itok=aomysVvE" alt="Tableau" width="65" height="40"> &nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" width="60" height="40"> &nbsp;&nbsp;&nbsp;
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Office_13-16_Logo.png" alt="Office" width="60" height="40"> &nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Office_13-16_Logo.png" alt="Office" width="70" height="40"> &nbsp;&nbsp;&nbsp;
 
-<img src="https://hiviewsolutions.com/wp-content/uploads/2024/08/HiView-Solutions-Google-Workspace-Reseller.-Super-G-Icon.png" alt="Google" width="60" height="40"> &nbsp;&nbsp;&nbsp;
+<img src="https://hiviewsolutions.com/wp-content/uploads/2024/08/HiView-Solutions-Google-Workspace-Reseller.-Super-G-Icon.png" alt="Google" width="50" height="40"> &nbsp;&nbsp;&nbsp;
 
 #
 
