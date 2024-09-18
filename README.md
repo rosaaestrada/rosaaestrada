@@ -6,7 +6,7 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 # 
 
 ### 💻 Languages
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="30" height= "30"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="30" height="30"> <img src="https://seeklogo.com/images/S/sas-institute-inc-logo-724F521E0C-seeklogo.com.png" alt="SAS" width="30" height="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="30" height= "30"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="30" height="30"> <img src="https://seeklogo.com/images/S/sas-institute-inc-logo-724F521E0C-seeklogo.com.png" alt="SAS" width="40" height="40">
 
 ### 🛠️ Frameworks
 - Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
