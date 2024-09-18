@@ -9,7 +9,19 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="30" height="30"> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="30"> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="30" height="30"> &nbsp;&nbsp;&nbsp; <img src="https://seeklogo.com/images/S/sas-institute-inc-logo-724F521E0C-seeklogo.com.png" alt="SAS" width="50" height="30">
 
 ### 🛠️ Frameworks
-- Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
+-  Seaborn, Imbalanced-learn
+
+<img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="Pandas" width="30" height="30"> &nbsp;&nbsp;&nbsp; 
+
+<img src="https://miro.medium.com/v2/resize:fit:765/1*jeD4MLgE1t_w02Jy8Yvkxw.png" alt="NumPy" width="40" height="30"> &nbsp;&nbsp;&nbsp; 
+
+<img src="https://www.dataquest.io/wp-content/uploads/2024/04/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="30" height="30"> &nbsp;&nbsp;&nbsp; 
+
+<img src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png" alt="Matplotlib" width="50" height="30"> &nbsp;&nbsp;&nbsp; 
+
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="50" height="30"> &nbsp;&nbsp;&nbsp; 
+
+<img src="https://imbalanced-learn.org/stable/_static/logo_wide.png" alt="Imbalanced-learn" width="50" height="30"> &nbsp;&nbsp;&nbsp; 
 
 ### 🧰 Tools
 - Jupyter Notebook, PowerBI, Tableau, BigQuery, Microsoft Suite, Google Workspace
