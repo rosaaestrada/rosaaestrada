@@ -1,24 +1,10 @@
 # Hey, I'm Rosa A. Estrada, M.S. 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-a-estrada-ms/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rae.estrada03@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rosaaestrada)
 
 ## About Me
-I possess a strong foundation in utilizing a diverse collection of programming languages, tools, and methodologies to conduct comprehensive data analysis. 
-Proficient in Advanced Machine Learning Algorithms, statistical modeling, and data visualization to extract actionable insights for real-world challenges. 
-With a background in Communication and Leadership Development from San Diego State University, I bring a unique blend of analytical expertise and effective communication skills to any team. 
-I am highly motivated, dedicated, and collaborative. I am committed to delivering high-quality work while focusing on the smallest details to drive impactful results.
+I'm a data science professional with a strong foundation in advanced machine learning algorithms, statsitical modeling, and data visualization. I specialize in using diverse programming languages and tools to conduct comprehensive data analysis. With a background in Communication and Leadership Developmnet, I bring both technical and interpersonal skills to every project. 
 
-🌱 **Currently Working on:** *Microsoft PowerBI Data Analytics Certificate*
+I'm passionate about working on side projects to push my boundaries. Outside of work, I'm a fan of Star Wars, sports, reading, and explporing the outdoors.
 
-⚽️ **Fun facts & Hobbies**
-- I love Star Wars, sports, reading, and the outdoors
-
-## 🎓 Education
-**National University** | *Master of Science - Data Science; Specialization in Business Analytics*
-- I've learned how to use a diverse collection of programming languages, tools and methodologies to conduct comprehensive data analysis, Advanced Machine Learning Algorithms, statistical modeling, and data visualization to obtain actionable insights for real-world challenges.
-
-**Coursera** | *Google Data Analytics Certificate*
 
 ## 📉 Projects
 
@@ -30,28 +16,11 @@ I am highly motivated, dedicated, and collaborative. I am committed to deliverin
 
   🔹 *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
 
-## ✨ Skills
-**Technical**
-- Python, SAS, R, SQL
-- Jupyter Notebook, Tableau, BigQUery, Google Sheets, Microsoft Excel, Bitrix 24 Platform
-- Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-a-estrada-ms/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rae.estrada03@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rosaaestrada)
 
-**Analytical**
-- Machine Learning Algorithms & Statistical Modeling
-- Data Mining & Data Analysis
-- Data Management & Data Manipulation
-- Exploratory data Analysis & Data Visualization
-- Feature Engineering & Feature Selection
-- Big Data
-  
-**Soft Skills**
-- Proficient in Spanish
-- Problem-solving & Communicative
-- Organization & Time Management
-- Adaptable & Teachable
-- Collaborative & Leadership
-
-Thank you for visiting my profile! Feel free to reach out if you want to connect, collaborate on a project, or know of any job openings! I'm passionate about learning and growing. 🌱
 <!---
 rosaaestrada/rosaaestrada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
