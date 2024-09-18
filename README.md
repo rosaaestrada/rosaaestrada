@@ -14,7 +14,7 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
   🔹 *Mental Health & Age Analysis Among U.S. Adults in 2018*
 
   🔹 *Predicting 2025 GDP Growth: USA, Finland, and Denmark*
-
+--------------------------------------------------------------------------------------------------------------------------------------
 ### 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-a-estrada-ms/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rae.estrada03@gmail.com)
