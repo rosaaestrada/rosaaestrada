@@ -6,8 +6,11 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 # 
 
 ### Languages
+- Python, SQL, R, SAS
 ### Frameworks
+- Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
 ### Tools
+- Jupyter Notebook, PowerBI, Tableau, BigQuery, Microsoft Suite, Google Workspace
 
 #
 
