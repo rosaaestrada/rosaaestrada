@@ -1,6 +1,5 @@
 # Hey, I'm Rosa A. Estrada, M.S. 👋
 
-## About Me
 I'm a data science professional with a strong foundation in advanced machine learning algorithms, statsitical modeling, and data visualization. I specialize in using diverse programming languages and tools to conduct comprehensive data analysis. With a background in Communication and Leadership Developmnet, I bring both technical and interpersonal skills to every project. 
 
 I'm passionate about working on side projects to push my boundaries. Outside of work, I'm a fan of Star Wars, sports, reading, and explporing the outdoors.
