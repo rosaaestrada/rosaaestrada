@@ -7,6 +7,7 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 
 ### 💻 Languages
 - Python, SQL, R, SAS
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
 
 ### 🛠️ Frameworks
 - Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
