@@ -5,11 +5,13 @@ I'm a data science professional with a strong foundation in advanced machine lea
 I'm passionate about working on side projects to push my boundaries. Outside of work, I'm a fan of Star Wars, sports, reading, and explporing the outdoors.
 # 
 
-### Languages
+### 💻 Languages
 - Python, SQL, R, SAS
-### Frameworks
+
+### 🛠️ Frameworks
 - Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Imbalanced-learn
-### Tools
+
+### 🧰 Tools
 - Jupyter Notebook, PowerBI, Tableau, BigQuery, Microsoft Suite, Google Workspace
 
 #
