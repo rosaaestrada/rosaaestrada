@@ -11,7 +11,7 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 ### 🛠️ Frameworks
 <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="Pandas" width="50" height="40"> &nbsp;&nbsp;&nbsp; <img src="https://www.dataquest.io/wp-content/uploads/2024/04/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="40"> &nbsp; <img src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png" alt="Matplotlib" width="70" height="40"> &nbsp;&nbsp;<img src="https://miro.medium.com/v2/resize:fit:819/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" width="60" height="40"> &nbsp;&nbsp;&nbsp; 
 
-<img src="https://imbalanced-learn.org/stable/_static/logo_wide.png" alt="Imbalanced-learn" width="60" height="40"> &nbsp;&nbsp;&nbsp; 
+<img src="https://imbalanced-learn.org/stable/_static/img/logo_wide_dark.png" alt="Imbalanced-learn" width="60" height="40"> &nbsp;&nbsp;&nbsp; 
 <img src="https://miro.medium.com/v2/resize:fit:765/1*jeD4MLgE1t_w02Jy8Yvkxw.png" alt="NumPy" width="70" height="40"> 
 
 ### 🧰 Tools
