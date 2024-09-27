@@ -16,6 +16,9 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 ### 🧰 Tools
 <img src="https://www.svgrepo.com/show/373718/jupyter.svg" alt="Jupyter Notebook" width="50" height="30"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="30"> &nbsp; <img src="https://afs.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_logo.png?h=c673cd1c&itok=aomysVvE" alt="Tableau" width="55" height="30"> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" width="60" height="30"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Office_13-16_Logo.png" alt="Office" width="70" height="30"> &nbsp;&nbsp;&nbsp; <img src="https://hiviewsolutions.com/wp-content/uploads/2024/08/HiView-Solutions-Google-Workspace-Reseller.-Super-G-Icon.png" alt="Google" width="25" height="30"> &nbsp;&nbsp;&nbsp;
 
+[![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)](https://powerbi.microsoft.com/)
+
 #
 
 ### 📉 Projects
@@ -32,8 +35,6 @@ I'm passionate about working on side projects to push my boundaries. Outside of 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-a-estrada-ms/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rae.estrada03@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rosaaestrada)
-
-[![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 
 <!---
