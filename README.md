@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/7a0350d96fefe89e5b4c3288965ac5ffa58eaae2/assets/Bottom_up.svg" alt= "" width= "" height= "">
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/7a0350d96fefe89e5b4c3288965ac5ffa58eaae2/assets/Bottom_up.svg" alt= "" width= "100%" height= "">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Rosa+Estrada🌊⚽;Welcome+to+my+profile!;Over+2+years+of+data+analysis+experience;Recent+graduate+in+Data+Science;Always+learning+new+things)](https://git.io/typing-svg)
 
